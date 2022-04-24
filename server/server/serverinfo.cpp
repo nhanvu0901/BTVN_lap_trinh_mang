@@ -26,9 +26,7 @@ int main()
     // Chuyen sang trang thai cho ket noi
     listen(listener, 5);
 
-    // Cho ket noi moi
-     // Cho ket noi moi
-   
+  
 
 
     int ret;

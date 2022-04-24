@@ -38,11 +38,11 @@ int main()
 
     const char* str2 = "\nDanh sach cac o dia trong may tinh: ";
     send(client, str2, strlen(str2), 0);
-    // Buffer length
+   
     DWORD mydrives = 15;
-    // Buffer for drive string storage
+   
     char lpBuffer[18];
-    // You may want to try the wmain() version
+   
     DWORD test;
     int i;
     test = GetLogicalDriveStrings(mydrives, (LPWSTR)lpBuffer);
@@ -53,10 +53,7 @@ int main()
         send(client, &buf2, sizeof(buf2), 0);
     }
 
-
-
     printf("\n");
-
 
     closesocket(client);
     WSACleanup();
