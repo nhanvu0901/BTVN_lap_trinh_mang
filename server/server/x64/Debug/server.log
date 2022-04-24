@@ -1,6 +1,2 @@
-﻿  server.cpp
-D:\Visual studio 2022\C and C++\Lập trình mạng\BTVN\server\server\server.cpp(18,26): warning C4838: conversion from 'ULONG' to 'USHORT' requires a narrowing conversion
-D:\Visual studio 2022\C and C++\Lập trình mạng\BTVN\server\server\server.cpp(18,26): warning C4244: 'initializing': conversion from 'ULONG' to 'USHORT', possible loss of data
-D:\Visual studio 2022\C and C++\Lập trình mạng\BTVN\server\server\server.cpp(19,19): warning C4838: conversion from 'USHORT' to 'UCHAR' requires a narrowing conversion
-D:\Visual studio 2022\C and C++\Lập trình mạng\BTVN\server\server\server.cpp(19,19): warning C4244: 'initializing': conversion from 'USHORT' to 'UCHAR', possible loss of data
+﻿  serverinfo.cpp
   server.vcxproj -> D:\Visual studio 2022\C and C++\Lập trình mạng\BTVN\server\x64\Debug\server.exe

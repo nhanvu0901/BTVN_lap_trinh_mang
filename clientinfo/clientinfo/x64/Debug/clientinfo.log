@@ -1,0 +1,4 @@
+﻿  clientinfo.cpp
+D:\Visual studio 2022\C and C++\Lập trình mạng\BTVN\clientinfo\clientinfo\clientinfo.cpp(29,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual studio 2022\C and C++\Lập trình mạng\BTVN\clientinfo\clientinfo\clientinfo.cpp(36,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  clientinfo.vcxproj -> D:\Visual studio 2022\C and C++\Lập trình mạng\BTVN\clientinfo\x64\Debug\clientinfo.exe
